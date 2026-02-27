@@ -73,8 +73,6 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=khoatran18&theme=transparent&hide_border=false)
 
-![Metrics](https://metrics.lecoq.io/khoatran18?template=classic&base.activity=1&base=activity&plugin.activity=1&plugin.activity.limit=12&plugin.activity.days=0&plugin.activity.load=300&plugin.activity.visibility=all)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khoatran18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 </div>
