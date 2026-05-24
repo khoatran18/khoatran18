@@ -3,7 +3,7 @@
 # 👋 Hello! I'm Tran Minh Khoa
 
 [//]: # (<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Data+Engineer;Distributed+Systems+%26+Data+Platforms;Kafka+%7C+Microservices+%7C+Big+Data;Build+systems+that+scale." alt="Typing SVG" />)
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Software+Engineer+%7C+Data+Engineer" alt="Typing SVG" />
 
 </div>
 
